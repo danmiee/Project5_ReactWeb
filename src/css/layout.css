@@ -1,0 +1,40 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    top: 0;
+    position: sticky;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav li {
+    padding: 5px;
+}
+
+header section {
+    display: flex;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    align-items: stretch;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    bottom: 0;
+    position: sticky;
+}

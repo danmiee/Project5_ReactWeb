@@ -1,0 +1,19 @@
+main {
+    background-color: #E2DCC8;
+    font-family: 'Dongle', sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+main section {
+    padding: 10px;
+}
+
+main div {
+    line-height: 130%;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 45%;
+}

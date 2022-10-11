@@ -4,9 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// ReactDOM 생성
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
+// HTML DOM - react DOM 연결
 root.render(
+
+  // React가 가진 기본 컴포넌트 - import React
   <React.StrictMode>
+    {/* 생성한 컴포넌트 - import App */}
     <App />
   </React.StrictMode>
 );

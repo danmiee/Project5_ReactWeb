@@ -1,0 +1,10 @@
+footer {
+    background-color: #100F0F;
+    color: #E2DCC8;
+    padding: 10px;
+    font-size: 50%;
+}
+
+footer li {
+    padding: 2px;
+}
